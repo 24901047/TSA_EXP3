@@ -1,5 +1,7 @@
 # Ex.No: 03   COMPUTE THE AUTO FUNCTION(ACF)
-### Register No: 212221240043
+### Developed by: Abhishek kannan M
+### Register No: 212224040007
+### Date: 14/5/25
 ### AIM:
 To Compute the AutoCorrelation Function (ACF) of the data for the first 35 lags to determine the model
 type to fit the data.
